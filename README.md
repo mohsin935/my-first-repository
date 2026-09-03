@@ -10,6 +10,9 @@ Welcome! This repository is used for testing code snippets, learning Git workflo
 * **Code Sandbox:** Quick JavaScript and Web Development experiments.
 * **Practice Ground:** Testing repository settings and setups.
 
+---
 
+## Author
 
-
+**Muhammad Sheraz**  
+* **GitHub:** [@mrsheraz33](https://github.com/mrsheraz33)
