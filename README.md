@@ -14,5 +14,6 @@ Welcome! This repository is used for testing code snippets, learning Git workflo
 
 ## Author
 
-**Muhammad Sheraz**  
-* **GitHub:** [@mrsheraz33](https://github.com/mrsheraz33)
+
+* Mohsin 
+sheraz
